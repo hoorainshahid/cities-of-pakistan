@@ -1,0 +1,111 @@
+body {}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-color: wheat;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+.boxone {
+    height: 50px;
+
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.boxtwo {
+    height: 50px;
+
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.boxthree {
+    height: 50px;
+
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.boxfour {
+    height: 50px;
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.boxfive {
+    height: 50px;
+
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.boxsix {
+    height: 50px;
+    background-color: rgb(5, 5, 54);
+    border: 3px solid black;
+    margin: 5px;
+
+}
+
+.logo {
+    padding: 15px 0 0 0;
+    font-weight: 900;
+    font-style: italic;
+    background-color: rgb(5, 5, 54);
+    text-decoration: double;
+    color: antiquewhite;
+    height: 40px;
+    font-size: 32px;
+}
+
+.search {
+    margin-left: 5px;
+    width: 350px;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+
+.boxone:hover {
+    background-color: rgb(179, 161, 161);
+}
+
+.boxtwo:hover {
+    background-color: rgb(179, 161, 161);
+}
+
+.boxthree:hover {
+    background-color: rgb(179, 161, 161);
+}
+
+.boxfour:hover {
+    background-color: rgb(179, 161, 161);
+}
+
+.boxfive:hover {
+    background-color: rgb(179, 161, 161);
+}
+
+.boxsix:hover {
+    background-color: rgb(179, 161, 161);
+}
